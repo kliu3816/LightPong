@@ -1,0 +1,8 @@
+﻿Project: Light Pong (Light catcher) 
+
+
+Description: The light zooms back and forth and the player(s) has to catch it by flipping the switch at the position of the light. Once caught, the player gains a point and the light pauses for 3 seconds then “bounces” and travels in the opposite direction than before (like pong!). If the light reaches either end the score resets to 0 (like pong!).
+
+
+Ankita: Coded movement of light and how to “catch” it, helped debug.
+Kevin: Implemented 7 segment and scoring, helped test and debug.
